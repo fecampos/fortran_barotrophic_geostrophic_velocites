@@ -8,9 +8,7 @@
       character(len=*),parameter :: lon_NAME = "longitude"
       character(len=*),parameter :: lat_NAME = "latitude"
       character(len=*),parameter :: zos_NAME = "zos"
-      character(len=*),parameter :: ugeos_NAME = "ugeos"
-      character(len=*),parameter :: vgeos_NAME = "vgeos"
-
+      
       integer, parameter :: nx = 1321, ny = 481, nt = 1
 
       integer :: i, j
