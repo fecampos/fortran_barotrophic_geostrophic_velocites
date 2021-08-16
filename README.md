@@ -30,5 +30,5 @@ Chaigneau, A., Gizolme, A., & Grados, C. (2008). Mesoscale eddies off Peru in al
      real, parameter :: missing_val = -32767, sf_sla = 1, af_sla = 0
      
 ```   
- 2. Open *jobcomp* and modify NETCDFLIB and NETCDFINC path with your netcdf path
+2. Open *jobcomp* and modify NETCDFLIB and NETCDFINC path with your netcdf path
 3. Run **./jobcomp**
