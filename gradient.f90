@@ -1,4 +1,4 @@
-           subroutine  gradient(nx,ny,missing_val,lon,lat,f,gx,gy)
+      subroutine  gradient(nx,ny,missing_val,lon,lat,f,gx,gy)
 
       implicit none
 
